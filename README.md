@@ -1,10 +1,8 @@
 ### Hello 👋
 
-- 😄 Meng Liu is a Ph.D student at National University of Defense Technology, China.
+- 😄 Meng Liu received the Ph.D. degree from National University of Defense Technology, China.
 
-- 👯 His research interests include temporal graph learning and deep clustering.
-
-- 🌱 He has published several papers in famous conferences and journals, including ICLR, SIGIR, ACM MM, CIKM, and TNNLS, etc.
+- 👯 His research interests include graph learning, multimodal and clustering.
 
   <center> 
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=MGithubL" />
